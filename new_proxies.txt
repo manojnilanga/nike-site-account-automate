@@ -1,0 +1,2 @@
+proxy1:port1:user1:password1
+proxy2:port2:user2:password2
